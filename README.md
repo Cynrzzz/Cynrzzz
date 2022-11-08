@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Cynrzzz
+- 👀 I’m interested in Computer Science.
+- 🌱 I’m currently learning GoLang & a bit of penetration testing.
+- 💞️ I’m looking to collaborate on Any coding projects, (Preferabley GoLang).
+- 📫 How to reach me @Tcpoist On telegram.
